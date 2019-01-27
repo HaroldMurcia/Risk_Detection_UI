@@ -75,6 +75,7 @@ to capture data is executed.
 * Harold F. Murcia -  (www.haroldmurcia.com)
 * Wilford Mayorga - (ing.wilford@gmail.com)
 * Duvier Jairo Lugo -  (jairolugo2002@hotmail.com)
+* JuanD Valenciano - (jvalenciano@unal.edu.co)
 
 
 ## License 
